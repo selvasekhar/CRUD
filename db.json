@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "first111",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 3333,
+      "comment": "firstwerewrewrew",
+      "date": "2022-11-06T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "second",
+      "category": "vegitable",
+      "freshness": "Brand New",
+      "price": 44444,
+      "comment": "second44444",
+      "date": "2022-11-06T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
